@@ -1,6 +1,5 @@
 # MIT-OCW-60002
-My solutions to MIT 6.0002 problem sets- solved starting September 2020 and ongoing
-
+My solutions to MIT 6.0002 problem sets- solved starting September-December 2020
 All solutions have been debugged and run through testing suites
 
 For questions/comments on solutions, contact me at annabethmn@email.arizona.edu 
